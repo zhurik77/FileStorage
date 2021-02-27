@@ -1,0 +1,15 @@
+D:\HorizontalList-master\HorizontalList-master\HorizontalList\bin\Debug\HorizontalList.exe.config
+D:\HorizontalList-master\HorizontalList-master\HorizontalList\bin\Debug\HorizontalList.exe
+D:\HorizontalList-master\HorizontalList-master\HorizontalList\bin\Debug\HorizontalList.pdb
+D:\HorizontalList-master\HorizontalList-master\HorizontalList\obj\Debug\HorizontalList.csprojAssemblyReference.cache
+D:\HorizontalList-master\HorizontalList-master\HorizontalList\obj\Debug\MainWindow.g.cs
+D:\HorizontalList-master\HorizontalList-master\HorizontalList\obj\Debug\App.g.cs
+D:\HorizontalList-master\HorizontalList-master\HorizontalList\obj\Debug\HorizontalList_MarkupCompile.cache
+D:\HorizontalList-master\HorizontalList-master\HorizontalList\obj\Debug\HorizontalList_MarkupCompile.lref
+D:\HorizontalList-master\HorizontalList-master\HorizontalList\obj\Debug\MainWindow.baml
+D:\HorizontalList-master\HorizontalList-master\HorizontalList\obj\Debug\HorizontalList.g.resources
+D:\HorizontalList-master\HorizontalList-master\HorizontalList\obj\Debug\HorizontalList.Properties.Resources.resources
+D:\HorizontalList-master\HorizontalList-master\HorizontalList\obj\Debug\HorizontalList.csproj.GenerateResource.cache
+D:\HorizontalList-master\HorizontalList-master\HorizontalList\obj\Debug\HorizontalList.csproj.CoreCompileInputs.cache
+D:\HorizontalList-master\HorizontalList-master\HorizontalList\obj\Debug\HorizontalList.exe
+D:\HorizontalList-master\HorizontalList-master\HorizontalList\obj\Debug\HorizontalList.pdb
